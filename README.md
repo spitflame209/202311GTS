@@ -1,3 +1,3 @@
 # google-trend-scraper
 
-working to find lists of current trending google searches
+working to create text lists of current trending google searches
